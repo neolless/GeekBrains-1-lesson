@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Ryzhuk
+// программа обмена значениями двух переменных с использованием третьей
+int a = 5;
+int b = 10;
+int c = a;
+a = b;
+b = c;
